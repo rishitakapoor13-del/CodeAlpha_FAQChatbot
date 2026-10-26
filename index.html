@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ask Willow | FAQ Assistant</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="page">
+    <div class="layout">
+      <section class="intro">
+        <p class="eyebrow">A little help, right here</p>
+        <h1>Good questions. Friendly answers.</h1>
+        <p class="sub">Skip the searching. Ask Willow about orders, shipping, returns, or getting started.</p>
+        <div id="cats" class="cats"></div>
+      </section>
+
+      <section class="chat" aria-label="Chat with Willow">
+        <header class="chat-head">
+          <div class="avatar" aria-hidden="true">
+            <svg viewBox="0 0 24 24"><path d="M12 3v18M4.2 7.5l15.6 9M4.2 16.5l15.6-9"/></svg>
+          </div>
+          <div class="who">
+            <strong>Ask Willow</strong>
+            <span><i class="dot"></i>FAQ demo assistant</span>
+          </div>
+          <button id="resetBtn" class="reset" type="button">Start over</button>
+        </header>
+
+        <div id="messages" class="messages" aria-live="polite"></div>
+        <div id="chips" class="chips"></div>
+
+        <div class="composer">
+          <input id="userInput" type="text" maxlength="300" placeholder="Type your question..." autocomplete="off" aria-label="Your question">
+          <button id="sendBtn" class="send" type="button" aria-label="Send">
+            <svg viewBox="0 0 24 24"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+          </button>
+        </div>
+      </section>
+    </div>
+
+    <footer>Demo project by Rishita Kapoor &middot; CodeAlpha AI Internship, Task 2 &middot; The shop and its policies are made up.</footer>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,531 @@
+[
+  {
+    "category": "General",
+    "question": "Hello hi hey",
+    "answer": "Hi! I am Willow, a friendly FAQ assistant. Ask me about orders, shipping, returns or getting started.",
+    "keywords": [
+      "good morning",
+      "good evening",
+      "good afternoon",
+      "greetings",
+      "hello there",
+      "hi",
+      "hello",
+      "hey",
+      "hii",
+      "hiya"
+    ]
+  },
+  {
+    "category": "General",
+    "question": "Who are you? What is Willow?",
+    "answer": "I am Willow, a demo FAQ assistant built for a CodeAlpha internship project. I answer questions about orders, shipping, returns and getting started. The shop and its policies are made up for this demo.",
+    "keywords": [
+      "about you",
+      "what can you do",
+      "are you a bot",
+      "are you human",
+      "your name",
+      "help",
+      "who are you",
+      "what is willow",
+      "introduce yourself"
+    ]
+  },
+  {
+    "category": "General",
+    "question": "Thank you",
+    "answer": "You are welcome! Ask me anything else whenever you like.",
+    "keywords": [
+      "thanks",
+      "thank you so much",
+      "thx",
+      "great",
+      "appreciate it",
+      "awesome"
+    ]
+  },
+  {
+    "category": "General",
+    "question": "Bye",
+    "answer": "Goodbye, and have a lovely day!",
+    "keywords": [
+      "goodbye",
+      "see you",
+      "see you later",
+      "take care",
+      "exit",
+      "quit"
+    ]
+  },
+  {
+    "category": "Orders & tracking",
+    "question": "How do I track my order?",
+    "answer": "Open the tracking link in your order confirmation email, or enter your order number on the Track Order page. Tracking updates within 24 hours after your order ships.",
+    "keywords": [
+      "where is my order",
+      "order status",
+      "track package",
+      "tracking number",
+      "tracking link",
+      "locate parcel",
+      "parcel",
+      "where is my parcel",
+      "where is my package",
+      "where is my order"
+    ]
+  },
+  {
+    "category": "Orders & tracking",
+    "question": "I did not receive my order confirmation email.",
+    "answer": "Please check your spam or promotions folder first. If it is not there, open the Orders page in your account and choose Resend confirmation, or contact support with your phone number.",
+    "keywords": [
+      "confirmation email",
+      "no email",
+      "email not received",
+      "resend email",
+      "order confirmation missing"
+    ]
+  },
+  {
+    "category": "Orders & tracking",
+    "question": "Can I change my order after placing it?",
+    "answer": "You can change items, size or address within 1 hour of placing the order from the Orders page. After that the order is packed and cannot be edited, but you can return items once they arrive.",
+    "keywords": [
+      "edit order",
+      "modify order",
+      "change items",
+      "change size",
+      "update order",
+      "add item to order"
+    ]
+  },
+  {
+    "category": "Orders & tracking",
+    "question": "How do I cancel my order?",
+    "answer": "Go to the Orders page and choose Cancel order before it ships. If it has already shipped, refuse the delivery or start a return when it arrives. Refunds for cancelled orders take 5 to 7 business days.",
+    "keywords": [
+      "cancel",
+      "cancellation",
+      "stop my order",
+      "i changed my mind",
+      "do not want order",
+      "cancel purchase"
+    ]
+  },
+  {
+    "category": "Orders & tracking",
+    "question": "My order has not arrived yet. What should I do?",
+    "answer": "If your order is more than 3 days past the estimated delivery date, contact support with your order number. We will trace the parcel and send a replacement or refund if it is lost.",
+    "keywords": [
+      "order is late",
+      "delayed",
+      "not delivered",
+      "missing parcel",
+      "still waiting",
+      "lost package",
+      "delivery delay"
+    ]
+  },
+  {
+    "category": "Orders & tracking",
+    "question": "Can I change my delivery address?",
+    "answer": "Yes, as long as the order has not shipped. Contact support with your order number and the new address as soon as possible.",
+    "keywords": [
+      "wrong address",
+      "update address",
+      "new address",
+      "edit delivery address",
+      "different address"
+    ]
+  },
+  {
+    "category": "Orders & tracking",
+    "question": "Which payment methods do you accept?",
+    "answer": "We accept credit and debit cards, UPI, net banking and popular wallets. Cash on delivery is also available on orders below Rs. 5,000.",
+    "keywords": [
+      "payment options",
+      "how can i pay",
+      "upi",
+      "credit card",
+      "debit card",
+      "net banking",
+      "wallet",
+      "pay online"
+    ]
+  },
+  {
+    "category": "Orders & tracking",
+    "question": "Is cash on delivery available?",
+    "answer": "Yes, cash on delivery is available on orders below Rs. 5,000 for a small fee of Rs. 40. Please keep the exact amount ready for the delivery partner.",
+    "keywords": [
+      "cod",
+      "pay on delivery",
+      "cash payment",
+      "pay cash",
+      "pay at door"
+    ]
+  },
+  {
+    "category": "Orders & tracking",
+    "question": "Why was my payment declined?",
+    "answer": "Payments can fail because of wrong card details, a bank limit or a network problem. Try again or use another method. If money was deducted, it is refunded automatically within 5 to 7 business days.",
+    "keywords": [
+      "payment failed",
+      "payment error",
+      "card declined",
+      "money deducted",
+      "transaction failed",
+      "payment not going through"
+    ]
+  },
+  {
+    "category": "Orders & tracking",
+    "question": "Can I get an invoice for my order?",
+    "answer": "Yes. Your invoice is attached to the confirmation email and is also available to download from the Orders page.",
+    "keywords": [
+      "bill",
+      "receipt",
+      "gst invoice",
+      "download invoice",
+      "tax invoice",
+      "proof of purchase"
+    ]
+  },
+  {
+    "category": "Shipping & delivery",
+    "question": "How long does delivery take?",
+    "answer": "Standard delivery takes 3 to 5 business days. Metro cities are often faster. You will see an estimated date at checkout before you pay.",
+    "keywords": [
+      "delivery time",
+      "shipping time",
+      "when will it arrive",
+      "how many days",
+      "estimated delivery",
+      "how soon"
+    ]
+  },
+  {
+    "category": "Shipping & delivery",
+    "question": "How much does shipping cost?",
+    "answer": "Shipping is free on orders above Rs. 999. For smaller orders, standard shipping costs Rs. 59.",
+    "keywords": [
+      "delivery charges",
+      "shipping fee",
+      "shipping charges",
+      "free shipping",
+      "delivery cost",
+      "delivery fee"
+    ]
+  },
+  {
+    "category": "Shipping & delivery",
+    "question": "Do you offer express delivery?",
+    "answer": "Yes. Express delivery costs Rs. 149 and arrives in 1 to 2 business days. Order before 2 pm to get it dispatched the same day.",
+    "keywords": [
+      "fast delivery",
+      "quick delivery",
+      "urgent",
+      "next day delivery",
+      "same day",
+      "priority shipping",
+      "faster shipping"
+    ]
+  },
+  {
+    "category": "Shipping & delivery",
+    "question": "Do you deliver to my pincode?",
+    "answer": "We deliver to most pincodes across India. Enter your pincode on the product page or in the cart to check availability and delivery time.",
+    "keywords": [
+      "check pincode",
+      "delivery area",
+      "serviceable",
+      "do you deliver to my city",
+      "delivery location",
+      "zip code",
+      "my area"
+    ]
+  },
+  {
+    "category": "Shipping & delivery",
+    "question": "Do you ship internationally?",
+    "answer": "Not yet. At the moment we deliver only within India.",
+    "keywords": [
+      "international shipping",
+      "ship abroad",
+      "outside india",
+      "overseas",
+      "other countries",
+      "deliver to usa",
+      "worldwide"
+    ]
+  },
+  {
+    "category": "Shipping & delivery",
+    "question": "Can I send an order to someone else as a gift?",
+    "answer": "Yes. Enter the recipient's address at checkout and tick the gift option to add a message. The price will not appear on the packing slip.",
+    "keywords": [
+      "gift",
+      "send as gift",
+      "gift message",
+      "deliver to friend",
+      "gift wrap",
+      "present for someone"
+    ]
+  },
+  {
+    "category": "Shipping & delivery",
+    "question": "What if I am not home when the order is delivered?",
+    "answer": "The delivery partner will try 3 times and call you before each attempt. You can also ask them to reschedule, or contact us to arrange a new delivery date.",
+    "keywords": [
+      "not at home",
+      "missed delivery",
+      "nobody home",
+      "reschedule delivery",
+      "failed delivery attempt",
+      "delivery attempt"
+    ]
+  },
+  {
+    "category": "Shipping & delivery",
+    "question": "Do you deliver on Sundays and public holidays?",
+    "answer": "We deliver Monday to Saturday. There are no deliveries on Sundays or public holidays, so those days are not counted in delivery estimates.",
+    "keywords": [
+      "weekend delivery",
+      "sunday",
+      "holiday delivery",
+      "saturday delivery",
+      "delivery days",
+      "working days"
+    ]
+  },
+  {
+    "category": "Returns & refunds",
+    "question": "What is your return policy?",
+    "answer": "You can return most items within 30 days of delivery if they are unused and in the original packaging. Start the return from the Orders page.",
+    "keywords": [
+      "return",
+      "returns",
+      "return window",
+      "return period",
+      "can i return",
+      "send back",
+      "returning items"
+    ]
+  },
+  {
+    "category": "Returns & refunds",
+    "question": "How do I return an item?",
+    "answer": "Open the Orders page, choose Return item, select a reason and pick a pickup slot. Pack the item in its original packaging and hand it to the pickup agent.",
+    "keywords": [
+      "start a return",
+      "return process",
+      "how to return",
+      "return request",
+      "schedule pickup",
+      "return steps"
+    ]
+  },
+  {
+    "category": "Returns & refunds",
+    "question": "How long do refunds take?",
+    "answer": "Refunds are issued within 5 to 7 business days after we receive and check the returned item. The money goes back to your original payment method.",
+    "keywords": [
+      "refund time",
+      "when will i get my money back",
+      "refund status",
+      "refund delay",
+      "money back",
+      "get refund"
+    ]
+  },
+  {
+    "category": "Returns & refunds",
+    "question": "Can I exchange an item for a different size or colour?",
+    "answer": "Yes. You can exchange within 30 days, subject to stock. Choose Exchange instead of Return on the Orders page and pick the new size or colour.",
+    "keywords": [
+      "exchange",
+      "swap",
+      "different size",
+      "different colour",
+      "different color",
+      "replace with another size",
+      "wrong size"
+    ]
+  },
+  {
+    "category": "Returns & refunds",
+    "question": "My item arrived damaged. What should I do?",
+    "answer": "We are sorry about that. Send a photo of the item and the packaging to support within 48 hours of delivery, and we will arrange a free replacement or a full refund.",
+    "keywords": [
+      "damaged",
+      "broken",
+      "defective",
+      "faulty",
+      "item is broken",
+      "arrived broken",
+      "damaged product"
+    ]
+  },
+  {
+    "category": "Returns & refunds",
+    "question": "Which items cannot be returned?",
+    "answer": "Personalised items, innerwear and other hygiene products, gift cards and items marked Final Sale cannot be returned unless they arrive damaged.",
+    "keywords": [
+      "non returnable",
+      "cannot return",
+      "not returnable",
+      "final sale",
+      "exceptions",
+      "no return items"
+    ]
+  },
+  {
+    "category": "Returns & refunds",
+    "question": "Do I have to pay for return shipping?",
+    "answer": "Return pickup is free if the item is damaged or wrong. For change-of-mind returns, Rs. 49 is deducted from your refund to cover pickup.",
+    "keywords": [
+      "return shipping",
+      "return charges",
+      "return fee",
+      "who pays for return",
+      "pickup charges",
+      "return cost"
+    ]
+  },
+  {
+    "category": "Returns & refunds",
+    "question": "I received the wrong item.",
+    "answer": "Please contact support within 48 hours with your order number and a photo of what you received. We will send the correct item free of charge and arrange pickup of the wrong one.",
+    "keywords": [
+      "wrong product",
+      "incorrect item",
+      "different item received",
+      "not what i ordered",
+      "wrong order delivered",
+      "received something else"
+    ]
+  },
+  {
+    "category": "Getting started",
+    "question": "How do I create an account?",
+    "answer": "Click Sign up at the top of the page, enter your email and a password, and confirm the verification email. It takes less than a minute.",
+    "keywords": [
+      "sign up",
+      "register",
+      "make an account",
+      "new account",
+      "join",
+      "registration",
+      "open account"
+    ]
+  },
+  {
+    "category": "Getting started",
+    "question": "Can I order without an account?",
+    "answer": "Yes. Choose Guest checkout at the payment step. Creating an account later lets you track orders and save addresses.",
+    "keywords": [
+      "guest checkout",
+      "without registering",
+      "no account",
+      "order as guest",
+      "without signing up"
+    ]
+  },
+  {
+    "category": "Getting started",
+    "question": "I forgot my password.",
+    "answer": "Click Forgot password on the sign-in page and enter your email. We will send a reset link that stays valid for 30 minutes.",
+    "keywords": [
+      "reset password",
+      "cannot log in",
+      "cannot login",
+      "password help",
+      "change password",
+      "lost password",
+      "login problem"
+    ]
+  },
+  {
+    "category": "Getting started",
+    "question": "How do I place an order?",
+    "answer": "Add items to your cart, open the cart, choose Checkout, enter your address, pick a payment method and confirm. You will get a confirmation email straight away.",
+    "keywords": [
+      "how to buy",
+      "how to order",
+      "place order",
+      "buy something",
+      "checkout steps",
+      "ordering process",
+      "make a purchase"
+    ]
+  },
+  {
+    "category": "Getting started",
+    "question": "How do I use a discount code?",
+    "answer": "Enter the code in the Promo code box at checkout and click Apply before you pay. Only one code can be used per order, and some sale items are excluded.",
+    "keywords": [
+      "promo code",
+      "coupon",
+      "voucher",
+      "discount",
+      "offer code",
+      "apply coupon",
+      "promotion code",
+      "coupon not working"
+    ]
+  },
+  {
+    "category": "Getting started",
+    "question": "Do you have a size guide?",
+    "answer": "Yes. Every clothing product page has a Size guide link with measurements in centimetres. If you are between sizes, we suggest choosing the larger one.",
+    "keywords": [
+      "sizing",
+      "size chart",
+      "measurements",
+      "what size should i buy",
+      "which size",
+      "fit guide"
+    ]
+  },
+  {
+    "category": "Getting started",
+    "question": "How can I contact customer support?",
+    "answer": "Chat with me here, or email support@willow.example. Our team is available Monday to Saturday, 10 am to 7 pm.",
+    "keywords": [
+      "contact",
+      "customer service",
+      "talk to a human",
+      "phone number",
+      "email support",
+      "speak to someone",
+      "customer care",
+      "helpline"
+    ]
+  },
+  {
+    "category": "Getting started",
+    "question": "Do you sell gift cards?",
+    "answer": "Yes. Digital gift cards come in amounts from Rs. 500 to Rs. 10,000 and are valid for 12 months. They arrive by email within minutes.",
+    "keywords": [
+      "gift card",
+      "gift voucher",
+      "e gift card",
+      "buy gift card",
+      "gift certificate"
+    ]
+  },
+  {
+    "category": "Getting started",
+    "question": "How do I get a discount on my first order?",
+    "answer": "Subscribe to our newsletter at the bottom of any page and you will receive a 10 percent discount code for your first order by email.",
+    "keywords": [
+      "newsletter",
+      "first order discount",
+      "welcome offer",
+      "subscribe",
+      "new customer offer",
+      "sign up for offers"
+    ]
+  }
+]
